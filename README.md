@@ -25,3 +25,11 @@ Module 19 Challenge: Progressive Web Applications (PWA) Challenge: Text Editor
 + https://babeljs.io/docs/
 + https://web.dev/progressive-web-apps/
 + https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
++ https://reactnative.dev/docs/getting-started
++ https://www.reactnative.express/
++ https://aws.amazon.com/documentation-overview/
++ https://graphql.org/learn/
++ https://www.howtographql.com/
++ https://www.typescriptlang.org/docs/
++ https://basarat.gitbook.io/typescript/
+
