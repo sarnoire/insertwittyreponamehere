@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const express = require('express');
 
 const app = express();
@@ -10,3 +11,17 @@ app.use(express.json());
 require('./routes/htmlRoutes')(app);
 
 app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
+=======
+const express = require('express');
+
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.use(express.static('../client/dist'));
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+
+require('./routes/htmlRoutes')(app);
+
+app.listen(PORT, () => console.log(`Now listening on port: ${PORT}`));
+>>>>>>> f59680aa84ea7fbcbbb3e4313eff14f0903ccc59
