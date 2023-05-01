@@ -1,21 +1,19 @@
-# insertwittyreponamehere
-Module 19 Challenge: Progressive Web Applications (PWA) Challenge: Text Editor
+# Insert Witty Repo Name Here
+## Module 19 Challenge: Progressive Web Applications (PWA) Challenge: Text Editor
+A text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria.
 
+## Technologies
 
+- HTML, CSS, and JavaScript for the website's front-end development.
+- Node.js for the back-end server.
+- Express.js, a Node.js web application framework, for routing and handling HTTP requests.
+- MongoDB, a NoSQL database, for storing data.
+- Mongoose, a Node.js library, for object modeling in MongoDB.
+- Passport.js, a Node.js authentication middleware, for user authentication and authorization.
+- Handlebars.js, a templating engine for rendering dynamic HTML templates.
+- Moment.js, a JavaScript library for working with dates and times.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Resources
 
 + https://developer.chrome.com/docs/workbox/reference/#registerRoute
 + https://developer.chrome.com/docs/workbox/reference/
@@ -32,4 +30,10 @@ Module 19 Challenge: Progressive Web Applications (PWA) Challenge: Text Editor
 + https://www.howtographql.com/
 + https://www.typescriptlang.org/docs/
 + https://basarat.gitbook.io/typescript/
+
+
+## Links
+
++ Heroku: https://git.heroku.com/insertwittynamehere.git
++ Repo: https://github.com/sarnoire/insertwittyreponamehere
 
